@@ -49,10 +49,10 @@ Requirements:
 - |textobj-user| 0.3.5 or later (vimscript#2100)
 
 Latest version:
-http://github.com/kana/config/commits/vim-textobj-lastpat
+https://github.com/kana/vim-textobj-lastpat
 
 Document in HTML format:
-http://kana.github.com/config/vim/textobj-lastpat.html
+http://vim-doc.heroku.com/view?https://github.com/kana/vim-textobj-lastpat/blob/master/doc/textobj-lastpat.txt
 
 
 
