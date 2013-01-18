@@ -1,6 +1,6 @@
 *textobj-lastpat.txt*	Text objects for the last searched pattern
 
-Version 0.0.1
+Version 0.0.2
 Script ID: 2355
 Copyright (C) 2008-2013 Kana Natsuno <http://whileimautomaton.net/>
 License: So-called MIT license  {{{
