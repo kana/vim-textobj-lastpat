@@ -1,9 +1,9 @@
 *textobj-lastpat.txt*	Text objects for the last searched pattern
 
-Version 0.0.1
+Version 0.0.2
 Script ID: 2355
-Copyright (C) 2008 kana <http://whileimautomaton.net/>
-License: MIT license  {{{
+Copyright (C) 2008-2013 Kana Natsuno <http://whileimautomaton.net/>
+License: So-called MIT license  {{{
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
     "Software"), to deal in the Software without restriction, including
@@ -48,11 +48,14 @@ Requirements:
 - Vim 7.2 or later
 - |textobj-user| 0.3.5 or later (vimscript#2100)
 
+Installation:
+- Recommended way: Use vim-flavor <https://github.com/kana/vim-flavor>.
+
 Latest version:
-http://github.com/kana/config/commits/vim-textobj-lastpat
+https://github.com/kana/vim-textobj-lastpat
 
 Document in HTML format:
-http://kana.github.com/config/vim/textobj-lastpat.html
+http://vim-doc.heroku.com/view?https://github.com/kana/vim-textobj-lastpat/blob/master/doc/textobj-lastpat.txt
 
 
 
@@ -110,6 +113,10 @@ BUGS						*textobj-lastpat-bugs*
 
 ==============================================================================
 CHANGELOG					*textobj-lastpat-changelog*
+
+0.0.2	2013-01-18T20:58:48+09:00	     *textobj-lastpat-changelog-0.0.2*
+	- Support vim-flavor <https://github.com/kana/vim-flavor>.
+	- Update |textobj-lastpat-introduction|.
 
 0.0.1	2012-03-24T14:51:08+09:00	     *textobj-lastpat-changelog-0.0.1*
 	- Refine the document a bit.
